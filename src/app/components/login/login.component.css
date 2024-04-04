@@ -1,0 +1,13 @@
+.caja {
+    width: 150px;
+    height: 150px;
+}
+
+.caja2 {
+    height: 50px;
+    background-color: red;
+}
+
+main {
+    height: 60vh;
+}
